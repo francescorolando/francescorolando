@@ -7,7 +7,7 @@ Web developer focused on building dynamic and user-friendly web applications. Pr
 ### 🛠️ Skills
 
 Here's an overview of the tools and technologies I frequently use:
-
+<br/>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
