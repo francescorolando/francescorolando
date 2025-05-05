@@ -9,7 +9,7 @@ Web developer focused on building dynamic and user-friendly web applications. Pr
 Here's an overview of the tools and technologies I frequently use:
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="padding: 5px; margin: 5px; border: 1px solid #555; vertical-align: middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40" style="border: 2px solid red;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40" style="padding: 5px; margin: 5px; border: 1px solid #555; vertical-align: middle;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" style="padding: 5px; margin: 5px; border: 1px solid #555; vertical-align: middle;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React.js" width="40" height="40" style="padding: 5px; margin: 5px; border: 1px solid #555; vertical-align: middle;"/>
