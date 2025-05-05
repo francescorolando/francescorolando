@@ -11,7 +11,7 @@ Here's an overview of the tools and technologies I frequently use:
 <table style="border-collapse: collapse;">
   <tbody>
     <tr>
-      <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 50px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
       </td>
       <td align="center" style="padding: 10px;">
