@@ -29,7 +29,7 @@ Here's an overview of the tools and technologies I frequently use:
 
 ### 🛠️ Skills
 
-Here's an overview of the tools and technologies I frequently use:
+Tools and technologies I frequently use:
 <p>
 <br/>
 <img src="https://cdn.simpleicons.org/html5/FFFFFF" alt="HTML5" title="HTML5" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -41,11 +41,11 @@ Here's an overview of the tools and technologies I frequently use:
 <br/>
 <br/>
 <img src="https://cdn.simpleicons.org/php/FFFFFF" alt="PHP" title="PHP" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/sql/FFFFFF" alt="SQL" title="SQL (MySQL)" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="SQL" title="SQL (MySQL)" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/tailwindcss/FFFFFF" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/figma/FFFFFF" alt="Figma" title="Figma" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 <img src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python" title="Python" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/java/FFFFFF" alt="Java" title="Java" width="40" height="40" style="vertical-align: middle;"/>
+<img src="https://cdn.simpleicons.org/openjdk/FFFFFF" alt="Java" title="Java" width="40" height="40" style="vertical-align: middle;"/>
 </p>
 
 ---
