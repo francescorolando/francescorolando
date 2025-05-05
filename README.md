@@ -8,7 +8,7 @@ Web developer focused on building dynamic and user-friendly web applications. Pr
 
 Here's an overview of the tools and technologies I frequently use:
 
-<table border="1" style="border-collapse: collapse;">
+<table style="border-collapse: collapse;">
   <tbody>
     <tr>
       <td align="center" style="padding: 10px;">
