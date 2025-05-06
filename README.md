@@ -54,7 +54,35 @@ Tools and technologies I frequently use:
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/FFFFFF">
-  <img alt
+  <img alt="Node.js" title="Node.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/nodedotjs">
+</picture>
+<br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/FFFFFF">
+  <img alt="PHP" title="PHP" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/php">
+</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF">
+  <img alt="SQL" title="SQL (MySQL)" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/mysql">
+</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/FFFFFF">
+  <img alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/tailwindcss">
+</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/figma/FFFFFF">
+  <img alt="Figma" title="Figma" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/figma">
+</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/FFFFFF">
+  <img alt="Python" title="Python" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/python">
+</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openjdk/FFFFFF">
+  <img alt="Java" title="Java" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/openjdk">
+</picture>
+</p>
 
 ---
 
