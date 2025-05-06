@@ -34,55 +34,27 @@ Tools and technologies I frequently use:
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/html5/FFFFFF">
-  <img alt="HTML5" title="HTML5" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/html5/24292E">
+  <img alt="HTML5" title="HTML5" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/html5">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/FFFFFF">
-  <img alt="JavaScript" title="JavaScript" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/javascript/24292E">
+  <img alt="JavaScript" title="JavaScript" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/javascript">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css3/FFFFFF">
-  <img alt="CSS3" title="CSS3" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/css3/24292E">
+  <img alt="CSS3" title="CSS3" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/css3">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/FFFFFF">
-  <img alt="React" title="React.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/react/24292E">
+  <img alt="React" title="React.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/react">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF">
-  <img alt="Next.js" title="Next.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/nextdotjs/24292E">
+  <img alt="Next.js" title="Next.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/nextdotjs">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/FFFFFF">
-  <img alt="Node.js" title="Node.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/nodedotjs/24292E">
-</picture>
-<br/>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/FFFFFF">
-  <img alt="PHP" title="PHP" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/php/24292E">
-</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF">
-  <img alt="SQL" title="SQL (MySQL)" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/mysql/24292E">
-</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/FFFFFF">
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/tailwindcss/24292E">
-</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/figma/FFFFFF">
-  <img alt="Figma" title="Figma" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/figma/24292E">
-</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/FFFFFF">
-  <img alt="Python" title="Python" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/python/24292E">
-</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/openjdk/FFFFFF">
-  <img alt="Java" title="Java" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/openjdk/24292E">
-</picture>
-</p>
+  <img alt
 
 ---
 
