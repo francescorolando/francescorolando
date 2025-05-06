@@ -9,12 +9,12 @@ Web developer focused on building dynamic and user-friendly web applications. Pr
 Tools and technologies I frequently use:
 <p>
 <br/>
-<img src="https://cdn.simpleicons.org/html5/FFFFFF" alt="HTML5" title="HTML5" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/FFFFFF" alt="JavaScript" title="JavaScript" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/css3/FFFFFF" alt="CSS3" title="CSS3" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/react/FFFFFF" alt="React" title="React.js" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/FFFFFF" alt="Node.js" title="Node.js" width="40" height="40" style="vertical-align: middle;"/>
+<img src="https://cdn.simpleicons.org/html5/" alt="HTML5" title="HTML5" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/" alt="JavaScript" title="JavaScript" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/css3/" alt="CSS3" title="CSS3" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/" alt="React" title="React.js" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/" alt="Next.js" title="Next.js" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/" alt="Node.js" title="Node.js" width="40" height="40" style="vertical-align: middle;"/>
 <br/>
 <br/>
 <img src="https://cdn.simpleicons.org/php/FFFFFF" alt="PHP" title="PHP" width="40" height="40" style="vertical-align: middle;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
