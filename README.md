@@ -25,6 +25,8 @@ Tools and technologies I frequently use:
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/FFFFFF">
   <img alt="React" title="React.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/react">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF">
   <img alt="Next.js" title="Next.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/nextdotjs">
@@ -32,9 +34,7 @@ Tools and technologies I frequently use:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/FFFFFF">
   <img alt="Node.js" title="Node.js" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/nodedotjs">
-</picture>
-<br/>
-<br/>
+</picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/FFFFFF">
   <img alt="PHP" title="PHP" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/php">
@@ -43,6 +43,8 @@ Tools and technologies I frequently use:
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF">
   <img alt="SQL" title="SQL (MySQL)" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/mysql">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/FFFFFF">
   <img alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/tailwindcss">
