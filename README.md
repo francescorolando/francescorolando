@@ -19,7 +19,7 @@ Tools and technologies I frequently use:
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/FFFFFF">
-  <img alt="CSS3" title="CSS3" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/css3">
+  <img alt="CSS3" title="CSS3" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/css">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/FFFFFF">
