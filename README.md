@@ -18,7 +18,7 @@ Tools and technologies I frequently use:
   <img alt="JavaScript" title="JavaScript" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/javascript">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css3/FFFFFF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/FFFFFF">
   <img alt="CSS3" title="CSS3" width="40" height="40" style="vertical-align: middle;" src="https://cdn.simpleicons.org/css3">
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <picture>
